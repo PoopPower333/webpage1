@@ -19,7 +19,9 @@
   magic  - 25
   <br>
   phy - 20 / 25
-
+  <br>
+  YURTS - 500
+  
 <h1>Ayushmaan</h1>
 <h3> Powers- </h3>
 <ul>
@@ -36,6 +38,8 @@
   magic  - 39
   <br>
   phy - 32 / 37
+  <br>
+  YURTS - 500
   
 <h1>GAX</h1>
 <h3> Powers- </h3>
@@ -51,6 +55,8 @@
   magic  - 25
   <br>
   phy - 28 / 33
+  <br>
+  YURTS - 500
   
 <h1>Anaadhi</h1>
 <h3> Powers- </h3>
@@ -66,5 +72,8 @@
   magic  - 25
   <br>
   phy - 20 / 25
+  <br>
+  YURTS - 500
+
 </body>
 </html>
