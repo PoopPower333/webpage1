@@ -44,7 +44,6 @@
   phy - 20 / 25
   <br>
   YURTS - 500
-  </div> 
 <h1>Ayushmaan</h1>
 <h3> Powers- </h3>
 <ul>
