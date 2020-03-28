@@ -5,8 +5,8 @@
   </style>
 </head>
 <body>
-<h1>reyakh</h1>
-
+  <button><h1>reyakh</h1></button>
+<div style = " display : none; ">
 <h3> Powers- </h3>
 <ul>
 <li>pull and push</li>
@@ -21,7 +21,7 @@
   phy - 20 / 25
   <br>
   YURTS - 500
-  
+  </div> 
 <h1>Ayushmaan</h1>
 <h3> Powers- </h3>
 <ul>
@@ -73,7 +73,7 @@
   <br>
   phy - 20 / 25
   <br>
-  YURTS - 500
+  YURTS - 300
 
 </body>
 </html>
