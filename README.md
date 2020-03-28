@@ -5,8 +5,8 @@
   </style>
 </head>
 <body>
-  <button><h1>reyakh</h1></button>
-<div style = " display : none; ">
+  <button onclick="document.getElementbyid('reyakh').style.display='block'"><h1>reyakh</h1></button>
+<div style = " display : none; " id="reyakh">
 <h3> Powers- </h3>
 <ul>
 <li>pull and push</li>
