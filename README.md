@@ -32,7 +32,7 @@
 </ul>
   health - 52
   <br>
-  magic  - 25
+  magic  - 39
   <br>
   
 <h1>GAX</h1>
