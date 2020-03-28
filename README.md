@@ -16,7 +16,7 @@
 </ul>
   health - 
   <br>
-  magic  -
+  magic  - 25
   <br>
 
 <h1>Ayushmaan</h1>
@@ -31,7 +31,7 @@
 </ul>
   health - 
   <br>
-  magic  -
+  magic  - 25
   <br>
   
 <h1>GAX</h1>
@@ -45,7 +45,7 @@
 </ul>
   health - 
   <br>
-  magic  -
+  magic  - 25
   <br>
   
 <h1>Anaadhi</h1>
@@ -59,7 +59,7 @@
 </ul>
   health - 
   <br>
-  magic  -
+  magic  - 25
   <br>
 </body>
 </html>
