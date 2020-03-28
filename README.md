@@ -30,7 +30,6 @@
 <body>
   <div>This page will reload in <span id="cnt" style="color:red;">10</span> Seconds</div>
   <h1>reyakh</h1>
-<div style = " display : none; " id="reyakh">
 <h3> Powers- </h3>
 <ul>
 <li>pull and push</li>
