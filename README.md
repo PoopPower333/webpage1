@@ -14,7 +14,7 @@
 <li> opposite of planetary devastation</li>
 <br>
 </ul>
-  health - 
+  health - 41
   <br>
   magic  - 25
   <br>
@@ -30,7 +30,7 @@
   <li>fire barrier</li>
 <br>
 </ul>
-  health - 
+  health - 52
   <br>
   magic  - 25
   <br>
@@ -44,7 +44,7 @@
 <li> injection shot (i can destroy one part of someones body)</li>
 <br>
 </ul>
-  health - 
+  health - 56
   <br>
   magic  - 25
   <br>
@@ -58,7 +58,7 @@
 <li> create wood structures</li>
 <br>
 </ul>
-  health - 
+  health - 52
   <br>
   magic  - 25
   <br>
