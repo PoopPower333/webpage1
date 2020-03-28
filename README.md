@@ -47,5 +47,19 @@
   <br>
   magic  -
   <br>
+  
+<h1>Anaadhi</h1>
+<h3> Powers- </h3>
+<ul>
+<li>engulf other ppl in vines which damage them and make them unable to move</li>
+<li>throw a attack which bounce from one enemy to another dealing them damage</li>
+<li> put ppl in a ball which heals them</li>
+<li> create wood structures</li>
+<br>
+</ul>
+  health - 
+  <br>
+  magic  -
+  <br>
 </body>
 </html>
