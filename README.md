@@ -1,34 +1,11 @@
 <html>
 <head>
-  <style>
+  
 
-<script>
-    var counter = 10;
 
-    // The countdown method.
-    window.setInterval(function () {
-        counter--;
-        if (counter >= 0) {
-            var span;
-            span = document.getElementById("cnt");
-            span.innerHTML = counter;
-        }
-        if (counter === 0) {
-            clearInterval(counter);
-        }
 
-    }, 1000);
-
-    window.setInterval('refresh()', 10000);
-
-    // Refresh or reload page.
-    function refresh() {
-        window  .location.reload();
-    }
-</script>
 </head>
 <body>
-  <div>This page will reload in <span id="cnt" style="color:red;">10</span> Seconds</div>
   <h1>reyakh</h1>
 <h3> Powers- </h3>
 <ul>
@@ -46,6 +23,7 @@
   YURTS - 500
 <h1>Ayushmaan</h1>
 <h3> Powers- </h3>
+  
 <ul>
 <li>Create and control fire</li>
 <li>Fire breath</li>
