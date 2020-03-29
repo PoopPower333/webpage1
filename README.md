@@ -29,7 +29,6 @@
 <li>Fire breath</li>
 <li>Fire mimicry</li>
 <li>SummonFire demons</li>
-<li>Explode and reform</li>
   <li>fire barrier</li>
 <br>
 </ul>
