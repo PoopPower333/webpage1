@@ -39,10 +39,11 @@
 <h1>GAX</h1>
 <h3> Powers- </h3>
 <ul>
-<li>shambles (i can teleport anything ot any1 in the room i create)</li>
-<li>personality switch</li>
-<li>amputate ( i can cut people without killing them and i can put em back)</li>
-<li> injection shot (i can destroy one part of someones body)</li>
+  <li>Levitation</li>
+  <li>Wind cutter</li>
+  <li>Wind barrier</li>
+  <li>Lung adaptation </li>
+  <li>Tornado</li>
 <br>
 </ul>
   health - 56
