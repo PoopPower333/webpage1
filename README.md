@@ -46,7 +46,7 @@
   <li>Tornado</li>
 <br>
 </ul>
-  health - 51 / 56
+  health - 46 / 56
   <br>
   magic  - 24 / 25
   <br>
