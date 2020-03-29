@@ -55,7 +55,7 @@
   <li>Tornado</li>
 <br>
 </ul>
-  health - 46 / 56
+  health - 38 / 56
   <br>
   magic  - 21 / 25
   <br>
@@ -75,7 +75,7 @@
 <li> create wood structures</li>
 <br>
 </ul>
-  health - 47 / 52
+  health - 39 / 52
   <br>
   magic  - 25
   <br>
@@ -95,7 +95,7 @@
 <li>Make shit out of the land near me</li>
 <br>
 </ul>
-  health - 27 / 32
+  health - 19 / 32
   <br>
   magic  - 34 / 37
   <br>
