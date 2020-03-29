@@ -14,11 +14,11 @@
 </ul>
   health - 41
   <br>
-  magic  - 23 / 25
+  magic  - 25
   <br>
-  phy - 17 / 25
+  phy - 25
   <br>
-  YURTS - 500
+  YURTS - 2500
   <br>
   EXP - 0 
 
@@ -34,13 +34,13 @@
   <li>fire barrier</li>
 <br>
 </ul>
-  health - 35 / 52
+  health - 52
   <br>
-  magic  - 33 / 39
+  magic  - 39
   <br>
-  phy - 25 / 37
+  phy - 37
   <br>
-  YURTS - 500
+  YURTS - 2500
 <br>
   EXP - 0
 
@@ -55,13 +55,13 @@
   <li>Tornado</li>
 <br>
 </ul>
-  health - 38 / 56
+  health - 56
   <br>
-  magic  - 21 / 25
+  magic  - 25
   <br>
-  phy - 28 / 33
+  phy - 33
   <br>
-  YURTS - 500
+  YURTS - 2500
   <br>
   EXP - 0
 
@@ -75,13 +75,13 @@
 <li> create wood structures</li>
 <br>
 </ul>
-  health - 35 / 52
+  health - 52
   <br>
-  magic  - 21 / 25
+  magic  - 25
   <br>
-  phy - 17 / 25
+  phy - 25
   <br>
-  YURTS -300
+  YURTS -2300
 <br>
   EXP - 0
 
@@ -95,13 +95,13 @@
 <li>Make shit out of the land near me</li>
 <br>
 </ul>
-  health - 19 / 32
+  health - 32
   <br>
-  magic  - 34 / 37
+  magic  - 37
   <br>
-  phy - 12 / 20
+  phy -  20
   <br>
-  YURTS - 500
+  YURTS - 2500
 <br>
   EXP - 0
 
