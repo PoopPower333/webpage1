@@ -1,9 +1,5 @@
 <html>
 <head>
-  
-<meta http-equiv="refresh" content="0; URL='anaadhi.github.io/webpage1/'" />
-
-
 </head>
 <body>
   <h1>reyakh</h1>
