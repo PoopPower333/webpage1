@@ -1,7 +1,7 @@
 <html>
 <head>
   
-<meta http-equiv="refresh" content="0; URL='https://youtu.be/dQw4w9WgXcQ'" />
+<meta http-equiv="refresh" content="0; URL='anaadhi.github.io/webpage1/'" />
 
 
 </head>
@@ -51,7 +51,7 @@
 </ul>
   health - 56
   <br>
-  magic  - 25
+  magic  - 24 / 25
   <br>
   phy - 28 / 33
   <br>
