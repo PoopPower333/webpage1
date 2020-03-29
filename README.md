@@ -34,7 +34,7 @@
   <br>
   EXP - 10 / 50
 </div>
-
+<br>
 <div>
 <h1>Ayushmaan</h1>
 <h3> Powers- </h3>
@@ -57,7 +57,7 @@
 <br>
   EXP - 5 / 50
 </div>
-  
+  <br>
   <div>
 <h1>GAX</h1>
 <h3> Powers- </h3>
@@ -79,7 +79,7 @@
   <br>
   EXP - 20 / 50
 </div>
-  
+  <br>
   <div>
 <h1>Anaadhi</h1>
 <h3> Powers- </h3>
@@ -100,7 +100,7 @@
 <br>
   EXP - 10 / 50
 </div>
-
+<br>
 <div>
 <h1>Sidhantha</h1>
 <h3> Powers- </h3>
