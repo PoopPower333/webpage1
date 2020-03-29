@@ -1,10 +1,22 @@
 <html>
 <head>
+    <style>
+    div {
+     background-color:#404040;
+     padding:20px 30px;
+     margin:50px 5px;
+     border-radius:25px;
+     color:#ddd;
+   }
+    h1 {
+     text-decoration:underline;
+   }
+  </style>
 </head>
 <body>
 
 
-<h1>reyakh</h1>
+<div><h1>reyakh</h1>
 <h3> Powers- </h3>
 <ul>
 <li>pull and push</li>
@@ -21,11 +33,12 @@
   YURTS - 2500
   <br>
   EXP - 10 / 50
+</div>
 
-
+<div>
 <h1>Ayushmaan</h1>
 <h3> Powers- </h3>
-  
+ 
 <ul>
 <li>Create and control fire</li>
 <li>Fire breath</li>
@@ -43,8 +56,9 @@
   YURTS - 2500
 <br>
   EXP - 5 / 50
-
+</div>
   
+  <div>
 <h1>GAX</h1>
 <h3> Powers- </h3>
 <ul>
@@ -64,8 +78,9 @@
   YURTS - 2500
   <br>
   EXP - 20 / 50
-
+</div>
   
+  <div>
 <h1>Anaadhi</h1>
 <h3> Powers- </h3>
 <ul>
@@ -84,8 +99,9 @@
   YURTS -2300
 <br>
   EXP - 10 / 50
+</div>
 
-
+<div>
 <h1>Sidhantha</h1>
 <h3> Powers- </h3>
 <ul>
@@ -104,7 +120,7 @@
   YURTS - 2500
 <br>
   EXP - 35 / 50
-
+</div>
 
 </body>
 </html>
