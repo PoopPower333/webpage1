@@ -28,7 +28,7 @@
   <li>fire barrier</li>
 <br>
 </ul>
-  health - 52
+  health - 47 / 52
   <br>
   magic  - 39
   <br>
@@ -46,7 +46,7 @@
   <li>Tornado</li>
 <br>
 </ul>
-  health - 56
+  health - 51 / 56
   <br>
   magic  - 24 / 25
   <br>
@@ -63,7 +63,7 @@
 <li> create wood structures</li>
 <br>
 </ul>
-  health - 52
+  health - 47 / 52
   <br>
   magic  - 25
   <br>
@@ -80,7 +80,7 @@
 <li>Make shit out of the land near me</li>
 <br>
 </ul>
-  health - 32
+  health - 27 / 32
   <br>
   magic  - 37
   <br>
