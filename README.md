@@ -2,7 +2,7 @@
 <head>
 </head>
 <body>
-  <h1>reyakh</h1>
+<h1>reyakh</h1>
 <h3> Powers- </h3>
 <ul>
 <li>pull and push</li>
@@ -12,7 +12,7 @@
 </ul>
   health - 41
   <br>
-  magic  - 25
+  magic  - 23
   <br>
   phy - 17 / 25
   <br>
