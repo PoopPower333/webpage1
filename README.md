@@ -72,7 +72,23 @@
   <br>
   phy - 20 / 25
   <br>
-  YURTS - 300
+  YURTS -300
 
+<h1>Sidhantha</h1>
+<h3> Powers- </h3>
+<ul>
+<li>earthquake </li>
+<li>Cuntroll nearby land </li>
+<li>tunnel</li>
+<li>Make shit out of the land near me</li>
+<br>
+</ul>
+  health - 32
+  <br>
+  magic  - 37
+  <br>
+  phy - 15 / 20
+  <br>
+  YURTS - 500
 </body>
 </html>
