@@ -2,6 +2,8 @@
 <head>
 </head>
 <body>
+
+
 <h1>reyakh</h1>
 <h3> Powers- </h3>
 <ul>
@@ -17,6 +19,10 @@
   phy - 17 / 25
   <br>
   YURTS - 500
+  <br>
+  EXP - 0 
+
+
 <h1>Ayushmaan</h1>
 <h3> Powers- </h3>
   
@@ -35,6 +41,9 @@
   phy - 25 / 37
   <br>
   YURTS - 500
+<br>
+  EXP - 0
+
   
 <h1>GAX</h1>
 <h3> Powers- </h3>
@@ -53,6 +62,9 @@
   phy - 25 / 33
   <br>
   YURTS - 500
+  <br>
+  EXP - 0
+
   
 <h1>Anaadhi</h1>
 <h3> Powers- </h3>
@@ -70,6 +82,9 @@
   phy - 17 / 25
   <br>
   YURTS -300
+<br>
+  EXP - 0
+
 
 <h1>Sidhantha</h1>
 <h3> Powers- </h3>
@@ -87,5 +102,9 @@
   phy - 12 / 20
   <br>
   YURTS - 500
+<br>
+  EXP - 0
+
+
 </body>
 </html>
