@@ -36,7 +36,7 @@
 </ul>
   health - 37 / 52
   <br>
-  magic  - 39
+  magic  - 38 / 39
   <br>
   phy - 25 / 37
   <br>
