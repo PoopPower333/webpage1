@@ -20,7 +20,7 @@
   <br>
   YURTS - 2500
   <br>
-  EXP - 0 
+  EXP - 10 / 50
 
 
 <h1>Ayushmaan</h1>
@@ -42,7 +42,7 @@
   <br>
   YURTS - 2500
 <br>
-  EXP - 0
+  EXP - 5 / 50
 
   
 <h1>GAX</h1>
@@ -63,7 +63,7 @@
   <br>
   YURTS - 2500
   <br>
-  EXP - 0
+  EXP - 20 / 50
 
   
 <h1>Anaadhi</h1>
@@ -83,7 +83,7 @@
   <br>
   YURTS -2300
 <br>
-  EXP - 0
+  EXP - 10 / 50
 
 
 <h1>Sidhantha</h1>
@@ -103,7 +103,7 @@
   <br>
   YURTS - 2500
 <br>
-  EXP - 0
+  EXP - 35 / 50
 
 
 </body>
