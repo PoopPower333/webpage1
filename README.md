@@ -59,7 +59,7 @@
   <br>
   magic  - 21 / 25
   <br>
-  phy - 25 / 33
+  phy - 28 / 33
   <br>
   YURTS - 500
   <br>
@@ -77,7 +77,7 @@
 </ul>
   health - 35 / 52
   <br>
-  magic  - 24 / 25
+  magic  - 21 / 25
   <br>
   phy - 17 / 25
   <br>
