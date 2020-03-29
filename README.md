@@ -14,7 +14,7 @@
   <br>
   magic  - 25
   <br>
-  phy - 20 / 25
+  phy - 17 / 25
   <br>
   YURTS - 500
 <h1>Ayushmaan</h1>
@@ -32,7 +32,7 @@
   <br>
   magic  - 39
   <br>
-  phy - 32 / 37
+  phy - 25 / 37
   <br>
   YURTS - 500
   
@@ -50,7 +50,7 @@
   <br>
   magic  - 24 / 25
   <br>
-  phy - 28 / 33
+  phy - 25 / 33
   <br>
   YURTS - 500
   
@@ -67,7 +67,7 @@
   <br>
   magic  - 25
   <br>
-  phy - 20 / 25
+  phy - 17 / 25
   <br>
   YURTS -300
 
@@ -84,7 +84,7 @@
   <br>
   magic  - 37
   <br>
-  phy - 15 / 20
+  phy - 12 / 20
   <br>
   YURTS - 500
 </body>
