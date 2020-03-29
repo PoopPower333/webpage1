@@ -36,7 +36,7 @@
 </ul>
   health - 37 / 52
   <br>
-  magic  - 38 / 39
+  magic  - 33 / 39
   <br>
   phy - 25 / 37
   <br>
@@ -75,7 +75,7 @@
 <li> create wood structures</li>
 <br>
 </ul>
-  health - 39 / 52
+  health - 35 / 52
   <br>
   magic  - 24 / 25
   <br>
