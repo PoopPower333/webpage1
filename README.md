@@ -34,7 +34,7 @@
   <li>fire barrier</li>
 <br>
 </ul>
-  health - 37 / 52
+  health - 35 / 52
   <br>
   magic  - 33 / 39
   <br>
