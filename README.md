@@ -75,7 +75,7 @@
   <br>
   phy - 33
   <br>
-  YURTS - 600
+  YURTS - 300
   <br>
   EXP - 20 / 50
 </div>
