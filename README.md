@@ -30,7 +30,7 @@
   <br>
   phy - 25
   <br>
-  YURTS - 2500
+  YURTS - 2600
   <br>
   EXP - 10 / 50
 </div>
