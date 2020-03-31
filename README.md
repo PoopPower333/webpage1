@@ -11,6 +11,9 @@
     h1 {
      text-decoration:underline;
    }
+    .item{
+        color:red;
+        )
   </style>
 </head>
 <body>
@@ -19,9 +22,10 @@
 <div><h1>reyakh</h1>
 <h3> Powers- </h3>
 <ul>
-<li>pull and push</li>
-<li>planetary devastation</li>
-<li> opposite of planetary devastation</li>
+    <li>pull and push</li>
+    <li>planetary devastation</li>
+    <li> opposite of planetary devastation</li>
+    <li> <span class="item"> Twin blades <span> </li>
 <br>
 </ul>
   health - 41
@@ -32,7 +36,7 @@
   <br>
   YURTS - 500
   <br>
-  EXP - 10 / 50
+  EXP - 15 / 50
 </div>
 <br>
 <div>
@@ -77,7 +81,7 @@
   <br>
   YURTS - 300
   <br>
-  EXP - 20 / 50
+  EXP - 5 / 75 
 </div>
   <br>
   <div>
@@ -98,7 +102,7 @@
   <br>
   YURTS -2800
 <br>
-  EXP - 10 / 50
+  EXP - 30 / 50
 </div>
 <br>
 <div>
@@ -113,7 +117,7 @@
 </ul>
   health - 32
   <br>
-  magic  - 37
+  magic  - 32 / 37
   <br>
   phy -  20
   <br>
