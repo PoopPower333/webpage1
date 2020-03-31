@@ -1,14 +1,7 @@
 <html>
 <head>
     <style>
-    div {
-     background-color:#404040;
-     padding:20px 30px;
-     margin:50px 5px;
-     border-radius:25px;
-     color:#ddd;
-   }
-    h1 {
+    h1:hover {
      text-decoration:underline;
    }
     .item{
