@@ -52,7 +52,7 @@
   <br>
   YURTS - 2500
 <br>
-  EXP - 5 / 50
+  EXP - 20 / 50
 </div>
   <br>
   <div>
@@ -67,7 +67,7 @@
     <li><span class="item">il THOT mish</span></li>
 <br>
 </ul>
-  health - 49 / 56
+  health - 39 / 56
   <br>
   magic  - 0 /25
   <br>
@@ -75,7 +75,7 @@
   <br>
   YURTS - 300
   <br>
-  EXP - 5 / 75 
+  EXP - 50 / 75 
 </div>
   <br>
   <div>
@@ -96,7 +96,7 @@
   <br>
   YURTS -2800
 <br>
-  EXP - 30 / 50
+  EXP - 20 / 75
 </div>
 <br>
 <div>
@@ -118,7 +118,7 @@
   <br>
   YURTS - 2500
 <br>
-  EXP - 35 / 50
+  EXP - 0 / 75
 </div>
 
 </body>
