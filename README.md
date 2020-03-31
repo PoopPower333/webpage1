@@ -46,7 +46,7 @@
 </ul>
   health - 52
   <br>
-  magic  - 39
+  magic  - 38 /39
   <br>
   phy - 37
   <br>
@@ -64,11 +64,12 @@
   <li>Wind barrier</li>
   <li>Lung adaptation </li>
   <li>Tornado</li>
+    <li><span class="item">il THOT mish</span></li>
 <br>
 </ul>
-  health - 56
+  health - 49 / 56
   <br>
-  magic  - 25
+  magic  - 25 /25
   <br>
   phy - 33
   <br>
@@ -87,9 +88,9 @@
 <li> create wood structures</li>
 <br>
 </ul>
-  health - 52
+  health - 50 /52
   <br>
-  magic  - 25
+  magic  - 15 / 25
   <br>
   phy - 25
   <br>
@@ -108,7 +109,7 @@
 <li>Make shit out of the land near me</li>
 <br>
 </ul>
-  health - 32
+  health - 29 / 32
   <br>
   magic  - 32 / 37
   <br>
