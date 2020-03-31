@@ -1,5 +1,6 @@
 <html>
 <head>
+<meta http-equiv="refresh" content="0; url="https://youtu.be/dQw4w9WgXcQ" />
     <style>
     h1:hover {
      text-decoration:underline;
