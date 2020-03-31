@@ -92,7 +92,7 @@
   <br>
   magic  - 15 / 25
   <br>
-  phy - 25
+  phy - 2 / 25
   <br>
   YURTS -2800
 <br>
