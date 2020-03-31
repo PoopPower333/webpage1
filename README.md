@@ -18,7 +18,7 @@
     <li>pull and push</li>
     <li>planetary devastation</li>
     <li> opposite of planetary devastation</li>
-    <li> <span class="item"> Twin blades <span> </li>
+    <li> <span class="item"> Twin blades </span> </li>
 <br>
 </ul>
   health - 41
