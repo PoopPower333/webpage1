@@ -107,6 +107,7 @@
 <li>Cuntroll nearby land </li>
 <li>tunnel</li>
 <li>Make shit out of the land near me</li>
+    <li><span class="item"> Elephant hammer</span></li>
 <br>
 </ul>
   health - 29 / 32
