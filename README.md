@@ -1,6 +1,6 @@
 <html>
 <head>
-<meta http-equiv="refresh" content="0; url="https://youtu.be/dQw4w9WgXcQ" />
+<meta http-equiv="refresh" content="0; url=https://youtu.be/dQw4w9WgXcQ" />
     <style>
     h1:hover {
      text-decoration:underline;
@@ -36,7 +36,7 @@
 <div>
 <h1>Ayushmaan</h1>
 <h3> Powers- </h3>
- 
+  
 <ul>
 <li>Create and control fire</li>
 <li>Fire breath</li>
@@ -84,7 +84,7 @@
 <h3> Powers- </h3>
 <ul>
 <li>engulf other ppl in vines which damage them and make them unable to move</li>
-<li>throw an attack which bounce from one enemy to another dealing them damage</li>
+<li>throw an attack which bounces from one enemy to another dealing them damage</li>
 <li> put ppl in a ball which heals them</li>
 <li> create wood structures</li>
 <br>
