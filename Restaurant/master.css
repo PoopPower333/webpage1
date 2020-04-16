@@ -1,0 +1,382 @@
+body{
+  margin:0;
+  padding: 0;
+  background: url("https://images.unsplash.com/photo-1549048085-bab2f1f49f65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=60");
+  overflow-x: hidden;
+  background-attachment: fixed;
+}
+header{
+  height: 100vh;
+  position: absolute;
+  top:0;
+  background: rgb(136,0,255);
+background: linear-gradient(0deg, rgba(136,0,255,0.6674019949776786) 0%, rgba(0,0,0,0.5777661406359419) 67%);
+background-attachment: fixed;
+z-index: -2
+}
+.bot{
+  animation-name: bot;
+  animation-delay:0.5s;
+  animation-duration: 1.5s;
+  width: 0px;
+  animation-fill-mode: forwards;
+}
+@keyframes bot{
+ from{width:0px;}
+to {width:53vw;}
+}
+.mid{
+  width: 5vw;
+}
+.Audiothelioma{
+  opacity: 0.0;
+  color: white;
+  font-size: 3.5vh;
+  word-spacing: 5px;
+  animation-delay: 01s;
+  animation-duration: 3s;
+  animation-name: audio;
+  animation-fill-mode: forwards;
+  position: relative;
+  top:3vh;
+}
+@keyframes audio2 {
+  from{
+    top:2vh;
+    opacity: 0;
+  }
+  to{
+    top:0vh;
+    opacity: 0.5;
+  }
+}
+.Auidothelioma2{
+  opacity: 0;
+  color: white;
+  font-size: 3vh;word-spacing: 5px;
+  animation-delay: 1.7s;
+  animation-duration: 2s;
+  animation-name: audio2;
+  animation-fill-mode: forwards;
+  position: relative;
+  top:2vh;
+}
+@keyframes audio{
+  from{
+    top:3vh;
+    opacity: 0;
+  }
+  to{
+    top:0vh;
+    opacity: 0.7;
+  }
+}
+.top{
+  position: fixed;
+  top:0;
+  width: 100vw;
+  height: 10vh;
+  z-index: -1;
+}
+.ti{
+  font-size: 6vh;
+  font-family: 'Lobster', cursive;
+  color: white;
+  position: fixed;
+  top:3vh;
+  left: 5vh;
+  z-index: 1
+}
+.icon{
+  text-align: right;
+  z-index: -1;
+}
+.ic{
+  height: 8vh;
+  width: auto;
+  position: fixed;
+  right: 5vh;
+  top:3vh;
+  cursor: pointer;
+  z-index: -1
+}
+.nav{
+  position: fixed;
+  z-index: 10;
+  top:0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #1A1B25;
+  display: none;
+}
+.dino{
+  font-family: 'Girassol', cursive;
+  color: white;
+  font-size: 8vh;
+  margin-top: 20vh;
+  padding-bottom: 3px;
+}
+
+.logo{
+  margin-top: 30vh;
+  width: 100vw;
+  text-align: center;
+}
+.log{
+  height: 9vw;
+  min-height: 10vh;
+  width: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.menub{
+  position: absolute;
+  top:100vh;
+  width: 100vw;
+  min-height: 100vh;
+}
+.menu{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-height: 100vh;
+  width: 100vw;
+  background-color: #ddd;
+}
+.dish{
+  position: absolute;
+  height: 90vh;
+  top:5vh;
+  width: 90vw;
+  left:5vw;
+
+}
+.text{
+}
+.cat{
+  position: absolute;
+  left:55vw;
+  top:8vh;
+  height: 85vh;
+  width: 95vh;
+  background: url("https://cdn.discordapp.com/attachments/430704906169614338/698967892821278790/Untitled-1.png");
+  background-size: cover;
+}
+.chicken{
+  height: 75vh;
+  width: auto;
+}
+.som{
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+}
+.loren{
+  white-space: pre;
+  width: 40vw;
+  font-size: 20px;
+
+}
+.lor{
+  width: 40vw;
+  font-family: 'Raleway', sans-serif;
+  font-size: 23px;
+  line-height: 35px;
+}
+.explore{
+  font-family: serif;
+  color: red;
+}
+.di{
+  list-style-type: none;
+  color:red;
+  text-decoration: none;
+  font-family: 'Martel', serif;
+  transition: 0.7s;
+  background-color: #ddd;
+  border: 0px;
+  font-size: 25px;
+}
+.di:hover{
+  word-spacing: 9px;
+  transition: 1s;
+  letter-spacing: 3px;
+}
+.cir{
+  background-color: red;
+  width: 40vh;
+}
+.jap{
+  position: absolute;
+  left:45vw;
+  width: 50vh;
+  height: 50vh;
+  background: url("https://cdn.discordapp.com/attachments/430704906169614338/698972122105643088/Untitled-1.png");
+  background-size: cover;
+}
+.bottom{
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 100vh;
+  left:100vw;
+  background-color: #ddd;
+  z-index: 1;
+}
+.slided{
+  animation-name: dog;
+  animation-delay: 0s;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 100vh;
+  left:100vw;
+  background-color: black;
+  z-index: 1;
+}
+@keyframes dog{
+  from{
+    left:90vw;
+  }
+  to{
+    left:0vw;
+  }
+}
+.book1{
+  display: none;
+}
+.book{
+  display: block;
+  animation-name: book2;
+  animation-delay: 1s;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  color: white;
+  text-align: center;
+  font-family: 'Girassol', cursive;
+  font-size: 7vh;
+  position: relative;
+  top:5vh;
+  opacity: 0;
+}
+@keyframes book2{
+  from{
+    top:5vh;
+    opacity: 0;
+  }
+  to{
+    top:0vh;
+    opacity: 1;
+  }
+}
+.naym{
+  text-align: center;
+  color: white;
+}
+.inpo{
+  visibility: hidden;
+}
+.inp{
+  position: relative;
+  top:4vh;
+  background-color: black;
+  width: 50vw;
+  height: 5vh;
+  border-radius: 10px;
+  border-color: white;
+  border-width: 1px;
+  opacity: 0.5;
+  color:white;
+  animation-name: dogo;
+  animation-fill-mode: forwards;
+  animation-duration: 2s;
+  animation-delay: 1.5s;
+  opacity: 0;
+  z-index: 4;
+}
+@keyframes dogo {
+  from{
+    opacity: 0;
+    top:3vh;
+  }
+  to{
+    opacity: 1;
+    top:2vh;
+  }
+}
+.waaah{
+  position: relative;
+  top:4vh;
+  background-color: black;
+  width: 50vw;
+  height: 20vh;
+  border-radius: 10px;
+  border-color: white;
+  border-width: 1px;
+  opacity: 0.5;
+  color:white;
+  animation-name: dogos;
+  animation-fill-mode: forwards;
+  animation-duration: 2s;
+  animation-delay: 2s;
+  opacity: 0;
+  z-index: 4;
+}
+@keyframes dogos {
+  from{
+    opacity: 0;
+    top:3vh;
+  }
+  to{
+    opacity: 1;
+    top:2vh;
+  }
+}
+.gama{
+  opacity: 0;
+}
+.names{
+  position: relative;
+  top:17vh;
+  right:27vw;
+  text-align: right;
+  animation-name: gax;
+  opacity: 0;
+  animation-fill-mode: forwards;
+  animation-duration: 1s;
+  animation-delay: 3s;
+}
+@keyframes gax {
+  from{
+    top:17vh;
+    opacity: 0;
+  }
+  to{
+    top:15vh;
+    opacity: 1;
+  }
+}
+
+
+
+.cancel{
+  background-color: black;
+  border: 0px;
+  color: white;
+  text-decoration: underline;
+  opacity: 0.7;
+  font-size: 2.5vh;
+}
+.submi{
+  margin-left: 2vw;
+  background-color: #52FFB8;
+  border-radius: 10px;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  width: 7vw;
+}
