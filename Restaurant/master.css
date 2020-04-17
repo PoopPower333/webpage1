@@ -233,15 +233,15 @@ to {width:53vw;}
   animation-fill-mode: forwards;
   width: 100vw;
   height: 100vh;
-  position: absolute;
-  top: 100vh;
+  position: fixed;
+  top: 0vh;
   left:100vw;
   background-color: black;
-  z-index: 1;
+  z-index: 15;
 }
 @keyframes dog{
   from{
-    left:90vw;
+    left:100vw;
   }
   to{
     left:0vw;
