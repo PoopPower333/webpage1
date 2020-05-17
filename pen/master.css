@@ -1,0 +1,727 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+::-webkit-scrollbar {
+display: none;
+}
+header{
+  background-color: #12223B;
+  position: absolute;
+
+  height: 100vh;
+  width: 100vw;
+}
+.nav{
+  position: fixed;
+  top:1vh;
+  left:4vw;
+  z-index: 50;
+  height: 5vh;
+  cursor: pointer;
+}
+.hr1{
+  width: 32px;
+  margin-top: 3vh;
+  margin-bottom: 5px;
+  height: 0.3px;
+  background-color: #ddd;
+  border: 1px solid #ddd;
+
+}
+.hr2{
+  width: 32px;
+  margin-top: 0.7vh;
+  margin-bottom: 5px;
+  height: 0.3px;
+  background-color: #ddd;
+  border: 1px solid #ddd;
+
+}
+.hr3{
+  width: 32px;
+  margin-top: 0.7vh;
+  height: 0.3px;
+  background-color: #ddd;
+  border: 1px solid #ddd;
+
+}
+.nav:hover .hr1{
+  margin-top: 2.7vh;
+  transition: 0.3s;
+}
+.nav:hover .hr2{
+  margin-top: 1vh;
+  transition: 0.3s;
+}
+.nav:hover .hr3{
+  margin-top: 1vh;
+  transition: 0.3s;
+  font-size:
+}
+.texttop{
+  position: absolute;
+  top:33vh;
+  left:19vw;
+  color:#FFD391;
+  line-height: 2.7vw;
+}
+.stift{
+  letter-spacing: 1vh;
+  color: #F4FFF8;
+  font-size: 8vw;
+  font-family: 'Playfair Display', serif;
+}
+.impos{
+  font-family: 'Titillium Web', 'Arial', sans-serif;
+  font-size: 3vw;
+}
+.immerse{
+  font-family: 'Titillium Web', 'Arial', sans-serif;
+  font-size: 5.5vh;
+}
+.pen_shadow{
+  background: url('https://cdn.discordapp.com/attachments/430704906169614338/702205882531840070/Group_11.png');
+  height: 100vh;
+  width: 21vw;
+  background-size: cover;
+  position: absolute;
+  right:15vw;
+}
+.penshad{
+  position: absolute;
+  top: 43vh;
+  width: 86vh;
+  height: auto;
+  transform: rotate(90deg) translate(0vh, 20.5vh);
+}
+.top2{
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top:100vh;
+  background-color: #F4FFF8;
+  text-align: center;
+}
+.textandstuff{
+  position: relative;
+  top: 10vh;
+}
+.key{
+  color: #2A4494;
+  font-size: 4.8vw;
+  font-family: 'Playfair Display', serif;
+}
+.writing{
+  font-size: 2.7vw;
+  font-family: 'Titillium Web', 'Arial', sans-serif;
+  font-weight: 100;
+}
+.green{
+  width:60vw;
+  height: 80vh;
+
+  background-size: 60vw 70vh;
+  position: absolute;
+  left:20vw;
+  top:10vh;
+}
+.rgb{
+  word-spacing: 2vh;
+  position: relative;
+  top:-21vh;
+
+}
+.gr{
+  margin-right: 4vh;
+  background-color: #30C967;
+  border-radius: 50%;
+  border-width: 0px;
+  width: 1.5vw;
+  height: 1.5vw;
+  outline: none;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.gr:hover{
+  transform: scale(1.3);
+  transition: 0.3s;
+}
+.gr1{
+  margin-right: 4vh;
+  background-color: #30C967;
+  border-radius: 50%;
+  border-width: 0.5vw;
+  border-color: black;
+  width: 1.5vw;
+  height: 1.75vw;
+  outline: none;
+  transition: 0.3s;
+  cursor: pointer;
+  position: relative;
+  top:-0.6vh;
+}
+.bl{
+  margin-right: 4vh;
+  background-color: #2BDADE;
+  border-radius: 50%;
+  border-width: 0px;
+  width: 1.5vw;
+  height: 1.5vw;
+  outline: none;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.bl:hover{
+  transform: scale(1.3);
+  transition: 0.3s;
+}
+.blu1{
+  margin-right: 4vh;
+  border-color: black;
+  background-color: #2BDADE;
+  border-radius: 50%;
+  border-width: 0.5vw;
+  width: 1.5vw;
+  height: 1.75vw;
+  outline: none;
+  transition: 0.3s;
+  cursor: pointer;
+  position: relative;
+  top:-0.6vh;
+}
+.sk{
+  margin-right: 2vh;
+  background-color: #F2C789;
+  border-radius: 50%;
+  border-width: 0px;
+  width: 1.5vw;
+  height: 1.5vw;
+  outline: none;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.sk1{
+  margin-right: 3vh;
+  border-color: black;
+  border-width: 0.5vw;
+  background-color: #F2C789;
+  border-radius: 50%;
+  width: 1.5vw;
+  height: 1.75vw;
+  outline: none;
+  transition: 0.3s;
+  cursor: pointer;
+  box-sizing: border-box;
+  position: relative;
+  top:-0.6vh;
+  right: 0.3vw;
+}
+.sk:hover{
+  transform: scale(1.3);
+  transition: 0.3s;
+}
+.mini{
+  position: absolute;
+  top:200vh;
+  width: 100vw;
+  height: 100vh;
+  background-color: #12223B;
+
+}
+.text3{
+  position: absolute;
+  right: 17vw;
+  top:7vh;
+  line-height: 40px;
+}
+.mini{
+  font-family: 'Playfair Display', serif;
+  color: rgb(255,216,146);
+  font-size: 46px;
+}
+.more{
+  color: #F4FFF8;
+  font-family: 'Titillium Web', 'Arial', sans-serif;
+  font-size: 36px;
+}
+.half{
+  position: absolute;
+  top:32vh;
+  width: 60vw;
+  height: auto;
+  left:8vw;
+}
+.bottom{
+  background-color: white;
+  z-index: 3;
+  height: 150vh;
+  width: 100vw;
+  position: absolute;
+  top:300vh;
+  text-align: center;
+  line-height: 20px;
+}
+h1{
+  font-size: 63px;
+  font-family: 'Titillium Web', 'Arial', sans-serif;
+}
+.nae1{
+  position: relative;
+  top:0vh;
+  width: 40vw;
+  height: 7vh;
+  font-size: 33px;
+  border-left: none;
+  border-right: none;
+  border-top:none;
+  outline: none;
+  padding: 5px;
+  border-color: lightgrey;
+  z-index: 5;
+  background-color: transparent;
+}
+.nae2{
+  position: relative;
+  top:5vh;
+  width: 40vw;
+  height: 7vh;
+  font-size: 33px;
+  border-left: none;
+  border-right: none;
+  border-top:none;
+  outline: none;
+  padding: 5px;
+  border-color: lightgrey;
+  z-index: 5;
+  background-color: transparent;
+}
+.submit{
+  width: 8vw;
+  height: 6.5vh;
+  top:3vh;
+  background-color: transparent;
+  border : 1px solid black;
+  display: inline-block;
+  overflow: hidden;
+  font-size: 3vh;
+  text-align: center;
+  color: black;
+  line-height: 1.9vh;
+  transition: 0.15s;
+  font-family: 'Titillium Web';
+  cursor: pointer;
+
+  font-weight: 500;
+}
+.inside{
+  display: inline-block;
+  width: 8vw;
+  height: 17vh;
+  background-color: #12223B;
+  position: relative;
+  right:8vw;
+  transition: 0.25s;
+  font-size: 2vh;
+  text-align: center;
+  top:-5vh;;
+  z-index: -1;
+}
+.submit:hover .inside{
+  right:0;
+  transition: 0.25s;
+}
+.submit:hover{
+  color : white;
+  transition: 0.15s;
+}
+footer{
+  height: 15vh;
+  width: 100vw;
+  background-color: blue;
+  position: absolute;
+  top: 450vh;
+  z-index: 5;
+  background-color: #12223B;
+  color:white;
+  text-align: center;
+  font-family: 'Titillium Web';
+  font-weight: 100;
+}
+.copyrite{
+  font-size: 20px;
+  position: relative;
+  top:40%;
+  transform: translateY(-50%);
+}
+.down{
+  font-size: 4vh;
+  font-family: 'Titillium Web';
+  font-weight: 300;
+  z-index: -1;
+  position: relative;
+  top:0vh;
+  left:1vh;
+  animation-name: upg;
+  animation-fill-mode: forwards;
+  animation-duration: 0.4s;
+}
+@keyframes upgo {
+  from{
+    top:1vh;
+    left:0;
+    font-size: 4vh;
+  }
+  to{
+    top:-3.5vw;
+    left:-1vw;
+    font-size: 3.3vh;
+  }
+}
+@keyframes downgo {
+  from{
+    top:-3.5vw;
+    left:-1vw;
+    font-size: 3.3vh;
+  }
+  to{
+    top:1vh;
+    left:0;
+    font-size: 4vh;
+  }
+}
+.lll{
+  width: 38vw;
+  text-align: left;
+  position: absolute;
+  right:32vw;
+}
+.lll2{
+
+  width:40vw;
+  text-align: left;
+  position: relative;
+  top:-17vh;
+  left:30vw;
+}
+.email{
+  width: 38vw;
+  text-align: left;
+  font-size: 4vh;
+  font-family: 'Titillium Web';
+  font-weight: 300;
+  animation-duration: 0.4s;
+  position: relative;
+  left:0vw;
+  animation-fill-mode: forwards;
+}
+.navtop{
+  z-index: 15;
+  position: fixed;
+  top:0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+.closed{
+  display: none;
+}
+.open{
+  position: fixed;
+  top:1.5vw;
+  left:4vw;
+  background: rgb(14,110,250);
+  background: linear-gradient(90deg, rgba(14,110,250,1) 0%, rgba(17,69,136,1) 100%);
+  border-radius: 50%;
+  width: 2vw;
+  height: 2vw;
+  animation-fill-mode: forwards;
+  animation-name: doge;
+  animation-duration: 1s;
+  overflow: hidden;
+  z-index: 15;
+  opacity: 0;
+}
+@keyframes doge {
+  from{
+    transform: scale(1);
+    opacity: 1
+  }
+  to{
+    transform: scale(110);
+    opacity: 1;
+  }
+}
+.none{
+  display: none;
+}
+.navtxt{
+  position: fixed;
+  top:31vh;
+  z-index: 59;
+  color:white;
+  font-size: 6vh;
+  font-family: 'Titillium Web';
+  font-weight: 800;
+  line-height: 5vh;
+  left: 14vw;
+  opacity: 0;
+  animation-name: nav;
+  animation-delay: 0.3s;
+  animation-duration: 0.7s;
+  animation-fill-mode: forwards;
+}
+@keyframes nav {
+    0%{
+      left: 14vw;
+      opacity: 1;
+    }
+    70%{
+      left:26vw;
+      opacity: 1;
+    }
+    100%{
+      left:23vw;
+      opacity: 1;
+    }
+}
+.tee{
+  z-index: 20;
+  position: relative;
+  left:2vw;
+}
+.home1{
+  z-index: 10;
+  line-height: 2vh;
+  width: 11vw;
+  height: 10vh;
+  cursor: pointer;
+  overflow: hidden;
+
+}
+.home2{
+
+  line-height: 2vh;
+  width: 14vw;
+  height: 10vh;
+  cursor: pointer;
+  z-index: 10;
+  overflow:hidden;
+}
+.home3{
+  line-height: 2vh;
+  width: 14vw;
+  height: 10vh;
+  cursor: pointer;
+  z-index: 10;
+  overflow: hidden;
+}
+.homein1{
+  width: 18vw;
+  height: 10vh;
+  transform: skewY(-30deg) rotate(30deg);
+  background-color: white;
+  position: relative;
+  top: -6vh;
+  left:12vw;
+
+}
+.home1:hover .homein1{left:-4vw;transition: 0.4s;}
+.home1:hover{color:rgb(8, 75, 131); transition: 0.2s;}
+.homein2{
+  width: 21vw;
+  height: 10vh;
+  transform: skewY(-30deg) rotate(30deg);
+  background-color: white;
+  position: relative;
+  top: -6vh;
+  left:14vw;
+
+}
+.home2:hover .homein2{left:-4vw;transition: 0.4s;}
+.home2:hover{color:rgb(8, 75, 131); transition: 0.2s;}
+.homein3{
+  width: 20vw;
+  height: 10vh;
+  transform: skewY(-30deg) rotate(30deg);
+  background-color:white;
+  position: relative;
+  top: -6vh;
+  left:14vw;
+}
+.home3:hover .homein3{left:-3vw;transition: 0.4s;}
+.home3:hover{color:rgb(8, 75, 131); transition: 0.2s;}
+
+.closing{
+  position: fixed;
+  top:31vh;
+  z-index: 59;
+  color:white;
+  font-size: 6vh;
+  font-family: 'Titillium Web';
+  font-weight: 800;
+  line-height: 5vh;
+  left: 23vw;
+  opacity: 1;
+  animation-name: navi;
+  animation-delay: 0s;
+  animation-duration: 0.7s;
+  animation-fill-mode: forwards;
+}
+@keyframes navi {
+    0%{
+      left:23vw;
+      opacity: 1;
+    }
+    30%{
+      left:26vw;
+      opacity: 1;
+    }
+    100%{
+      left: 14vw;
+      opacity: 0;
+    }
+}
+.closin{
+  position: fixed;
+  top:1.5vw;
+  left:4vw;
+  background: rgb(14,110,250);
+  background: linear-gradient(90deg, rgba(14,110,250,1) 0%, rgba(17,69,136,1) 100%);
+  border-radius: 50%;
+  width: 2vw;
+  height: 2vw;
+  animation-fill-mode: forwards;
+  animation-name: dogee;
+  animation-duration: 0.5s;
+  animation-delay: 0s;
+  overflow: hidden;
+  z-index: 15;
+  opacity: 1;
+  transform: scale(110)
+}
+@keyframes dogee {
+  from{
+    transform: scale(110);
+    opacity: 1;
+  }
+  to{
+    transform: scale(0);
+    opacity: 1;
+  }
+}
+.hr1_cross{
+  width: 32px;
+  margin-top: 2.7vh;
+  margin-bottom: 5px;
+  height: 0.3px;
+  background-color: #ddd;
+  border: 1px solid #ddd;
+  animation-name: crossed;
+  animation-duration: 0.3s;
+  animation-fill-mode: forwards;
+  transform:rotate(0deg);
+}
+@keyframes crossed{
+  from{
+    transform: rotate(0deg) translateY(2vh);
+  }
+  to{
+    transform: rotate(45deg) translateY(1.8vh);
+  }
+}
+.hr2_cross{
+  width: 32px;
+  margin-top: 1vh;
+  margin-bottom: 5px;
+  height: 0.3px;
+  background-color: #ddd;
+  border: 1px solid #ddd;
+  visibility: hidden;
+
+}
+.hr3_cross{
+  width: 32px;
+  margin-top: 1vh;
+  height: 0.3px;
+  background-color: #ddd;
+  border: 1px solid #ddd;
+  animation-name: crossed2;
+  animation-duration: 0.3s;
+  animation-fill-mode: forwards;
+  transform:rotate(0deg);
+}
+@keyframes crossed2{
+  from{
+    transform: rotate(0deg) translateY(0vh);
+
+  }
+  to{
+    transform: rotate(-45deg) translateY(-1.9vh);
+  }
+}
+.hr1_crossX{
+  width: 32px;
+  margin-top: 3vh;
+  margin-bottom: 5px;
+  height: 0.3px;
+  background-color: #ddd;
+  border: 1px solid #ddd;
+  animation-name: uncrossed;
+  animation-duration: 0.3s;
+  animation-fill-mode: forwards;
+  transform:rotate(0deg);
+  animation-duration: 0.3s;
+  animation-fill-mode: forwards;
+  transform: rotate(45deg) translateY(1.8vh);
+
+}
+@keyframes uncrossed {
+  from{
+    transform: rotate(45deg) translateY(1.8vh);
+  }
+  to{
+    transform: rotate(0deg) translateY(0vh);
+  }
+}
+.nav:hover .hr1_crossX{
+  margin-top: 2.7vh;
+  transition: 0.3s;
+}
+.hr3_crossX{
+  width: 32px;
+  margin-top: 0.7vh;
+  height: 0.3px;
+  background-color: #ddd;
+  border: 1px solid #ddd;
+  animation-name: uncrossed2;
+  animation-duration: 0.3s;
+  animation-fill-mode: forwards;
+  transform:rotate(-45deg);
+}
+@keyframes uncrossed2{
+  from{
+    transform: rotate(-45deg) translateY(-1.9vh);
+
+  }
+  to{
+    transform: rotate(0deg) translateY(0vh);
+  }
+}
+  .nav:hover .hr3_crossX{
+    margin-top: 1vh;
+    transition: 0.3s;
+  }
+.BUY{
+  position: absolute;
+  top:70vh;
+  right:44vw;
+  width: 12vw;
+  height: 10vh;
+  background-color: #12223B;
+  color:white;
+  cursor: pointer;
+  font-size: 2vw;
+  border-radius: 50px;
+  border-width: 0px;
+}

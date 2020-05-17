@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Titillium+Web:300,400" rel="stylesheet">
+    <meta charset="utf-8">
+    <title>Stift</title>
+    <link rel = "stylesheet" href="master.css">
+  </head>
+  <body>
+
+      <div class="closed" id="help">
+
+      </div>
+      <div class="none" id="nvt">
+        <div class="home1"><br><br><span class="tee">Home</span><div class="homein1"></div></div><br>
+        <div class="home2"><br><br><span class="tee">Purchase</span><div class="homein2"></div></div><br>
+        <div class="home3"><br><br><span class="tee">About us</span><div class="homein3"></div></div><br>
+      </div>
+    <div class="nav" onclick="myfunction()">
+      <hr class="hr1" id="cross"><hr class="hr2" id="cross2"><hr class="hr3" id="cross3">
+    </div>
+    <header>
+      <div class="texttop">
+        <span class="stift"><b>Stift.</span>
+        <br>
+        <span class="impos">Write the impossible.</b></span>
+        <br>
+        <br>
+        <span class="immerse">Immerse yourself in our<br> luxurious world of pens.</span>
+      </div>
+      <div class="pen_shadow"><img src="https://cdn.discordapp.com/attachments/430704906169614338/702206175428739112/largePen.png" class="penshad"></div>
+    </header>
+    <section class="top2">
+      <div class="textandstuff">
+      <span class="key"><b>Variety is key</b></span><br>
+      <span class="writing">Stift 42 is a writing implement with a point from which ink flows</span>
+      <div class="green" id="wateringcan">
+        <img class="gayer" src="https://cdn.discordapp.com/attachments/430704906169614338/705714481526734878/fpgreen.png" style=" width:60vw; height:auto;" id="that">
+        <div class="rgb"><button class="gr1" onclick="greener()" id="grbb"></button><button class="bl" onclick="bluer()" id="bbtt"></button><button class="sk" onclick="whiter()" id="whtt"></button></div>
+      </div>
+      <button class="BUY">Buy now</button>
+    </div>
+  </section>
+    <section class="mini">
+      <div class="text3">
+      <h1 class="design">Minimalist Design</h1>
+<br>
+<span class="off" id="useless"></span>
+      <span class="more">Stift 42 has been stripped away of all <br>unnecessary elements and focuses on <br>what needs to be there.</span>
+    </div>
+    <img class="half" src="https://cdn.discordapp.com/attachments/430704906169614338/703655582778916945/Group208.png">
+    </section>
+    <section class="bottom" id="chicken">
+      <br>
+      <h1> Experience Stift unboxing <h1>
+        <br><br><br><br>
+        <div class="lll"><span class="down" id='naym'>Name</span></div>
+        <input class="nae1" onclick="air()" id="cow" onblur="air2()"></input>
+        <br><br><br><br>
+        <input type="text" class="nae2" onclick="air3()" id="cow2" onblur="air4()"></input>
+        <br><br><br><br><br><br>
+        <div class="lll2"><span class="email" id='email'>Email</span></div>
+        <div class="submit"><br>Submit <div class="inside"></div> </div>
+        <img src="https://cdn.discordapp.com/attachments/430704906169614338/705747375024636014/Stift_box-01.png" style="width:60vw; height:auto; position:absolute; top:90vh; left:20vw;">
+    </section>
+    <footer>
+      <span class="copyrite">© 2019 Stift. All rights reserved.</span>
+    </footer>
+    <script>
+    function air() {
+      document.getElementById('cow').style.borderColor = 'red';
+      document.getElementById('naym').style.animationName = 'upgo';
+        }
+        function air3() {
+          document.getElementById('cow2').style.borderColor = 'red';
+          document.getElementById('email').style.animationName = 'upgo';
+            }
+            function air4() {
+              var x = document.getElementById("cow2").value;
+              var y = x.length;
+              if (y == 0){
+              document.getElementById('cow2').style.borderColor = 'lightgrey';
+              document.getElementById('email').style.animationName = 'downgo';
+            }
+                }
+        function air2() {
+          var x = document.getElementById("cow").value;
+          var y = x.length;
+          if (y == 0){
+          document.getElementById('cow').style.borderColor = 'lightgrey';
+          document.getElementById('naym').style.animationName = 'downgo';
+        }
+            }
+                function myfunction() {
+
+                  if (document.getElementById('useless').className === 'off') {
+                  document.getElementById('help').className = 'open';
+                  document.getElementById('nvt').className = 'navtxt';
+                  document.getElementById('useless').className = 'on';
+                  document.getElementById('cross').className = 'hr1_cross';
+                  document.getElementById('cross2').className = 'hr2_cross';
+                  document.getElementById('cross3').className = 'hr3_cross';
+                }
+                else {
+                  document.getElementById('help').className = 'closin';
+                  document.getElementById('nvt').className = 'closing';
+                  document.getElementById('cross').className = 'hr1_crossX';
+                  document.getElementById('cross2').className = 'hr2';
+                  document.getElementById('cross3').className = 'hr3_crossX';
+                  document.getElementById('useless').className = 'off';
+                }
+              }
+              function greener() {
+                document.getElementById('that').src = 'https://cdn.discordapp.com/attachments/430704906169614338/705714481526734878/fpgreen.png';
+                document.getElementById('whtt').className = 'sk';
+                document.getElementById('bbtt').className = 'bl';
+                document.getElementById('grbb').className = 'gr1';
+              }
+              function bluer() {
+                document.getElementById('that').src = 'https://cdn.discordapp.com/attachments/430704906169614338/704392292710219906/fptor.png';
+                document.getElementById('bbtt').className = 'blu1';
+                document.getElementById('whtt').className = 'sk';
+                document.getElementById('grbb').className = 'gr';
+              }
+              function whiter() {
+                document.getElementById('that').src = 'https://cdn.discordapp.com/attachments/430704906169614338/705715961679970335/fbciggi.png';
+                document.getElementById('whtt').className = 'sk1';
+                document.getElementById('bbtt').className = 'bl';
+                document.getElementById('grbb').className = 'gr';
+              }
+    </script>
+  </body>
+</html>
