@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="master.css">
+    <title></title>
+  </head>
+  <body onload="myfunction()">
+    <button onClick="convert()" style="width:100vw; height:30vh;">Click this</button>
+    <button onClick="start(); myTimer = setInterval(myCounter, 1000)" id="f" style="width:100vw; height:30vh; position:absolute; top:0; left:0; z-index:2;">start</button>
+    <p id="d"></p><br>
+    <p id="t"></p>
+  <script type="text/javascript">
+  var a = 1;
+  var c = 0;
+  document.addEventListener('contextmenu', event => event.preventDefault());
+  function start(event){
+    document.getElementById('f').style.display = "none";
+  }
+  function myCounter() {
+    document.getElementById("t").innerHTML = ++c;
+    if (c >= 5){  alert(a / 5)}
+  }
+  function convert(){
+
+      a = parseInt(a);
+      a = a + 1;
+      document.getElementById('d').innerHTML = a;
+    
+  }
+  </script>
+  </body>
+</html>
