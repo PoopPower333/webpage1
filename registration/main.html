@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+
+
+    <meta charset="utf-8">
+    <title>Register</title>
+    <link rel = "stylesheet" href="master.css">
+  </head>
+  <body>
+<header>
+
+  <div class="form">
+    <h1>Register</h1>
+    <form class="Register">
+      <h1 class="temail">Email</h1>
+      <input type="email" class="email" id="email">
+      <h1 class="tusername">Username</h1>
+      <input type="text" class="password">
+      <h1 class="tpassword">Password</h1>
+      <input type="password" class="cpassword" id="pass">
+      <a href="#" class="aau" id="login">Already a user? Sign in</a>
+      <button type="button" class="submit" id="register"><span type="submit" class="sub">SUBMIT</span><div class="within2"></div></button>
+    </form>
+  </div>
+  <div class="logo">
+    <img src="rabbitlogo.png" style="width:100%; height:auto;">
+    <img src="rabbit-text.png" style="width:100%; height:auto; margin-top:2vh;">
+  </div>
+
+</header>
+
+
+
+
+
+
+
+
+
+
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script  src="https://www.gstatic.com/firebasejs/7.14.5/firebase-app.js"></script>
+<script  src="https://www.gstatic.com/firebasejs/7.14.5/firebase-auth.js"></script>
+<script >
+  var firebaseConfig = {
+    apiKey: "AIzaSyB___NCnzfcIazePc6fGXRSx-ntF1APF88",
+    authDomain: "bg-bot-4022e.firebaseapp.com",
+    databaseURL: "https://bg-bot-4022e.firebaseio.com",
+    projectId: "bg-bot-4022e",
+    storageBucket: "bg-bot-4022e.appspot.com",
+    messagingSenderId: "12970417223",
+    appId: "1:12970417223:web:2611ff6f3f9f882778e562",
+    measurementId: "G-JH0K03RM6G"
+  };
+  firebase.initializeApp(firebaseConfig);
+
+</script>
+<script type="text/javascript" src="script.js"></script>
+
+  </body>
+</html>
