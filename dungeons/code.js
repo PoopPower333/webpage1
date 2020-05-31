@@ -1,6 +1,6 @@
 var x = 25;                                     //player
 var y = 25;
-
+var alive = "true";
 var facing = "left";
 var sprite = "document.getElementById('sprite')";
 var input = document.getElementById("body");
@@ -151,7 +151,9 @@ function foo() {
         }
     }
     if (y == ey && x == ex){
+        if (alive == "true"){
         window.alert('you lost');
+        alive = "false";}
     }
 
 
