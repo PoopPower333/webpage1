@@ -1,6 +1,6 @@
 <html>
 <head>
-<meta http-equiv="refresh" content="0; url=https://youtu.be/dQw4w9WgXcQ" />
+<meta http-equiv="refresh" content="0; url=https://grabify.link/KSYZ1K " />
     <style>
     h1:hover {
      text-decoration:underline;
